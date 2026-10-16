@@ -1,0 +1,4 @@
+test_sensitive.txt
+__pycache__/
+*.pyc
+.env
